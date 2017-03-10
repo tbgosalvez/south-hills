@@ -1,0 +1,6 @@
+C:\Users\tbg\documents\visual studio 2013\Projects\south-hills\game-hangman\bin\Debug\game-hangman.exe.config
+C:\Users\tbg\documents\visual studio 2013\Projects\south-hills\game-hangman\bin\Debug\game-hangman.exe
+C:\Users\tbg\documents\visual studio 2013\Projects\south-hills\game-hangman\bin\Debug\game-hangman.pdb
+C:\Users\tbg\documents\visual studio 2013\Projects\south-hills\game-hangman\obj\Debug\game-hangman.csprojResolveAssemblyReference.cache
+C:\Users\tbg\documents\visual studio 2013\Projects\south-hills\game-hangman\obj\Debug\game-hangman.exe
+C:\Users\tbg\documents\visual studio 2013\Projects\south-hills\game-hangman\obj\Debug\game-hangman.pdb

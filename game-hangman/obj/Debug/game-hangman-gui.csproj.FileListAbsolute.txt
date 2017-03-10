@@ -1,0 +1,3 @@
+C:\Users\tbg\Documents\Visual Studio 2013\Projects\south-hills\game-hangman\bin\Debug\game-hangman.exe.config
+C:\Users\tbg\Documents\Visual Studio 2013\Projects\south-hills\game-hangman\obj\Debug\game-hangman.exe
+C:\Users\tbg\Documents\Visual Studio 2013\Projects\south-hills\game-hangman\obj\Debug\game-hangman.pdb

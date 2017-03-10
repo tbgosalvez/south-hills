@@ -1,0 +1,5 @@
+﻿  old_main.cpp
+c:\users\tbg\documents\visual studio 2013\projects\final_notebook\final_notebook\old_main.cpp(73): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'long', possible loss of data
+c:\users\tbg\documents\visual studio 2013\projects\final_notebook\final_notebook\old_main.cpp(400): warning C4018: '<' : signed/unsigned mismatch
+c:\users\tbg\documents\visual studio 2013\projects\final_notebook\final_notebook\old_main.cpp(434): warning C4018: '<' : signed/unsigned mismatch
+  final_notebook.vcxproj -> C:\Users\tbg\Documents\Visual Studio 2013\Projects\final_notebook\Debug\final_notebook.exe
